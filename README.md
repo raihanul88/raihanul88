@@ -7,17 +7,6 @@
 <h3 align="center">
 A passionate Data Science and Machine Learning Engineer from Bangladesh
 </h3>
-<p align="center">
-  <img src="./assets/banner.png"
-       alt="MD. Raihanul Hasan - Data Science and Machine Learning Engineer"
-       width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Raihan</h1>
-
-<h3 align="center">
-A passionate Data Science and Machine Learning Engineer from Bangladesh
-</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raihanul88&label=Profile%20views&color=0e75b6&style=flat"
