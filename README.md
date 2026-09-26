@@ -1,20 +1,15 @@
 <p align="center">
-  <img src="./assetsbanner.png" alt="MD. Raihanul Hasan - Data Science and Machine Learning Engineer" width="100%">
+  <img src="./assetsbanner.png" alt=" MD. Raihanul Hasan - Data Science and Machine Learning Engineer" width="100%">
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Hi%20👋,%20I'm%20Raihan&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
   
-  <h3>A passionate Data Science and Machine Learning Engineer from Bangladesh 🇧🇩</h3>
+  <h3>A passionate Data Science and Machine Learning Engineer from Bangladesh</h3>
   <p><em>"I think I am funny 😄"</em></p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raihanul88&label=Profile%20views&color=0e75b6&style=flat" alt="raihanul88" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanul88" alt="raihanul88" />
-  </a>
-</p>
+
 
 ---
 
@@ -98,7 +93,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanul88&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="raihanul88" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanul88&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="raihanul88" width="48%" />
-</div>
+
