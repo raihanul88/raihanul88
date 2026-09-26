@@ -19,8 +19,8 @@
 <tr>
 <td width="100%">
 <div align="center">
-  <h3>🚀 1st Runners-up @ StartUp InnovateX 2026</h3>
-  <p>Proud to share that our team <strong>Nekoma</strong> secured the <strong>1st Runners-up</strong> position at <strong>StartUp InnovateX 2026</strong>, organized by the Department of Information Technology & Management (DIU) during the 3rd ITM Summit at Daffodil International University (DIU)! 🥈🎉</p>
+  <h3>🚀 Runners-up @ StartUp InnovateX 2026</h3>
+  <p>Proud to share that our team <strong>Nekoma</strong> secured the <strong>Runners-up</strong> position at <strong>StartUp InnovateX 2026</strong>, organized by the Department of Information Technology & Management (DIU) during the 3rd ITM Summit at Daffodil International University (DIU)! 🥈🎉</p>
 </div>
 </td>
 </tr>
